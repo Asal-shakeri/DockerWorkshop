@@ -1,1 +1,3 @@
 # DockerWorkShop
+
+Your task is to containerize a Python-based game application using Docker and run it interactively to play the game and submit your score. You will be provided with the game’s Python code and a Linux commands cheatsheet document to guide you through the process. Instead of installing Docker on your local system, you will use the “Play with Docker” online environment to complete the task. Begin by creating a Dockerfile to containerize the game, ensuring that all dependencies are included. Then, build and run the Docker image interactively to play the game and record your score. This exercise will help you gain hands-on experience with Docker fundamentals, containerizing applications, and interacting with containerized environments.
